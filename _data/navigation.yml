@@ -1,7 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About
-    url: /permalink
+    url: /about-us/
     sublinks:
       - title: About Us
         url: /about-us/
