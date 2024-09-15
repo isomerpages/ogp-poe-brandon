@@ -29,4 +29,15 @@ sections:
       size: sm
       backgroundColor: gray
       alignment: left
+  - infopic:
+      title: DeepRacer 2024
+      subtitle: Hot and trending!
+      id: infopic
+      description: Whether you're a beginner or an AI enthusiast, this hands-on
+        competition offers a fun way to learn cutting-edge machine learning
+        techniques.
+      button: Find out more
+      url: https://aws.amazon.com/deepracer/
+      image: /images/DR.jpg
+      alt: DeepRacer
 ---
