@@ -1,7 +1,14 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
+  - title: About
+    url: /permalink
+    sublinks:
+      - title: About Us
+        url: /aboutus/
+      - title: Sponsors and Partners
+        url: /partners/
+      - title: Events
+        url: /events/
   - title: Get started
     collection: example-folder
   - title: Contact Us
