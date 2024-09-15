@@ -4,4 +4,4 @@ collections:
     order:
       - terms-of-use.md
       - privacy.md
-      - faq.md
+      - FAQs.md
