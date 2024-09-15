@@ -48,6 +48,7 @@ sections:
       description: The real-world applications of AI are vast and growing. Understand
         how AI can revolutionise our current society.
       button: learn more
-      url: /imp
-      alt: Image alt text
+      url: /implementing-ai/
+      alt: Implementing-AI
+      image: /images/H4.jpg
 ---
