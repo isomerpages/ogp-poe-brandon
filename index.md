@@ -15,10 +15,10 @@ sections:
       key_highlights:
         - title: Diving into AI
           description: What about AI
-          url: /whatisai/
+          url: /what-is-ai/
         - title: Implementation
           description: Key Considerations to AI
-          url: https://www.turing.com/blog/ai-implementation-strategy-tips
+          url: /implementing-ai/
         - title: Page A
           description: Page A is important too
           url: /privacy/
