@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Diving into AI
           description: What about AI
-          url: https://www.bbc.com/news/technology-65855333
+          url: /whatisai/
         - title: Implementation
           description: Key Considerations to AI
           url: https://www.turing.com/blog/ai-implementation-strategy-tips
