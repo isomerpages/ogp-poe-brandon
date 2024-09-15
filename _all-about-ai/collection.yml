@@ -1,4 +1,5 @@
 collections:
   all-about-ai:
     output: true
-    order: []
+    order:
+      - Implementing AI.md
