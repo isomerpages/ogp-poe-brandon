@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - About us.md
-      - Blog.md
       - What is AI?.md
       - Implementing AI.md
+      - Blog.md
