@@ -1,0 +1,4 @@
+collections:
+  footer-notes:
+    output: true
+    order: []
