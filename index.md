@@ -66,8 +66,8 @@ sections:
           description: Learning with practical experience in various AI technologies.
           linktext: Learn more
           url: /events/
-        - title: Card
-          description: Card description
+        - title: AI in Industry Conference 2024
+          description: Join us to discuss the latest trends and advancements in AI.
           linktext: Learn more
-          url: ""
+          url: /events/
 ---
