@@ -13,7 +13,6 @@ that can perform tasks typically requiring human intelligence. These tasks
 include problem-solving, decision-making, language understanding, visual
 perception, and more. AI enables machines to learn from experience, adjust
 to new inputs, and execute complex functions with minimal human intervention.</p>
-<p></p>
 <hr>
 <h3>Types of AI</h3>
 <p>AI can be categorized into different types based on its capabilities:</p>
