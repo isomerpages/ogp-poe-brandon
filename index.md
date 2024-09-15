@@ -22,6 +22,9 @@ sections:
         - title: Deepracer
           description: AI Racing Competition
           url: /deepracer/
+        - title: Careers
+          description: Apply here!
+          url: /careers/
       variant: floating
       size: sm
       backgroundColor: gray
