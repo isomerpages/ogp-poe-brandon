@@ -2,5 +2,6 @@ collections:
   footer-notes:
     output: true
     order:
+      - terms-of-use.md
       - privacy.md
       - faq.md
