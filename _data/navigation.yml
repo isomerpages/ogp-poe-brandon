@@ -11,5 +11,7 @@ links:
         url: /blog
   - title: Help and Policies
     collection: footer-notes
+  - title: Careers
+    url: /careers
   - title: Contact Us
     url: /contact-us/
