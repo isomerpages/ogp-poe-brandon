@@ -2,6 +2,6 @@ collections:
   footer-notes:
     output: true
     order:
+      - Frequently Asked Questions.md
       - terms-of-use.md
       - privacy.md
-      - Frequently Asked Questions.md
