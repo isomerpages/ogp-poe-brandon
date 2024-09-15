@@ -61,5 +61,9 @@ sections:
           description: Challenge and experience the thrill of racing your own autonomous
             model car.
           linktext: Learn more
-          url: https://aws.amazon.com/deepracer/
+          url: /events/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
