@@ -2,5 +2,6 @@ collections:
   all-about-ai:
     output: true
     order:
+      - Blog.md
       - What is AI?.md
       - Implementing AI.md
