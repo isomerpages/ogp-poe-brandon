@@ -1,7 +1,8 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: IsomerAI
+description: An Isomer site of the Singapore Government that provides AI
+  solutions to improve everyday lives.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
