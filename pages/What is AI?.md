@@ -39,6 +39,10 @@ future stage of AI development, which could revolutionize many aspects
 of human life.</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI6.jpg">
+</div>
 <h3>How AI Works</h3>
 <p>AI is built on the foundation of several key technologies:</p>
 <ul>
