@@ -41,7 +41,7 @@ models.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Register:</strong> Sign up by [Insert Registration Link].</p>
+<p><strong>Register:</strong> Sign up by <a href="/contact-us/" rel="noopener nofollow" target="_blank">contacting us</a>.</p>
 </li>
 <li>
 <p><strong>Build Your Model:</strong> Create and train your autonomous vehicle.</p>
@@ -57,8 +57,7 @@ sessions.</p>
 <p><strong>Engage and Network:</strong> Participate in community activities.</p>
 </li>
 </ol>
-<p><strong>Stay Updated:</strong> Follow us on [Social Media Links] for the
-latest updates.</p>
+<p><strong>Stay Updated:</strong> Follow us on @IsomerAI for the latest updates.</p>
 <hr>
 <h3><strong>AI Innovation Workshop Series</strong></h3>
 <p><strong>Date:</strong> 1<sup>st</sup> November 2024
@@ -115,7 +114,7 @@ to continue your learning.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Register:</strong> Sign up for individual workshops or the entire
-series at [Insert Registration Link].</p>
+series by <a href="/contact-us/" rel="noopener nofollow" target="_blank">contacting us</a>.</p>
 </li>
 <li>
 <p><strong>Prepare:</strong> Review pre-workshop materials to maximize your
@@ -130,8 +129,8 @@ with instructors.</p>
 advance your projects.</p>
 </li>
 </ol>
-<p><strong>Stay Updated:</strong> Visit our event page and follow us on [Social
-Media Links] for schedule details.</p>
+<p><strong>Stay Updated:</strong> Visit our event page and follow us on @IsomerAI
+for schedule details.</p>
 <hr>
 <h3><strong>AI in Industry Conference 2024</strong></h3>
 <p><strong>Date:</strong> 15<sup>th</sup> November 2024
@@ -168,8 +167,7 @@ potential partners, and thought leaders.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Register:</strong> Secure your spot by registering at [Insert Registration
-Link].</p>
+<p><strong>Register:</strong> Secure your spot by <a href="/contact-us/" rel="noopener nofollow" target="_blank">contacting us</a> directly.</p>
 </li>
 <li>
 <p><strong>Prepare:</strong> Review the agenda and select sessions and workshops
@@ -183,7 +181,7 @@ of interest.</p>
 </li>
 </ol>
 <p><strong>Stay Updated:</strong> For conference updates and details, follow
-us on [Social Media Links].</p>
+us on @IsomerAI.</p>
 <hr>
 <h3><strong>AI Hackathon Challenge</strong></h3>
 <p><strong>Date:</strong> 2<sup>nd</sup> December 2024
@@ -219,8 +217,7 @@ your solution to a panel of judges.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Register:</strong> Form your team and register by [Insert Registration
-Link].</p>
+<p><strong>Register:</strong> Form your team and register by <a href="/contact-us/" rel="noopener nofollow" target="_blank">contacting us</a> directly.</p>
 </li>
 <li>
 <p><strong>Prepare:</strong> Review the challenge brief and gather your resources.</p>
@@ -232,5 +229,5 @@ Link].</p>
 <p><strong>Celebrate:</strong> Enjoy the results and network with other participants.</p>
 </li>
 </ol>
-<p><strong>Stay Updated:</strong> Check our event page and follow us on [Social
-Media Links] for more information.</p>
+<p><strong>Stay Updated:</strong> Check our event page and follow us on @IsomerAI
+for more information.</p>
