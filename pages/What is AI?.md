@@ -13,6 +13,8 @@ that can perform tasks typically requiring human intelligence. These tasks
 include problem-solving, decision-making, language understanding, visual
 perception, and more. AI enables machines to learn from experience, adjust
 to new inputs, and execute complex functions with minimal human intervention.</p>
+<p></p>
+<hr>
 <h3>Types of AI</h3>
 <p>AI can be categorized into different types based on its capabilities:</p>
 <ol>
@@ -75,40 +77,6 @@ and voice assistants.</p>
 <br>Computer vision enables machines to interpret and process visual information
 from the world. It’s used in applications like facial recognition, medical
 imaging analysis, and autonomous vehicles.</p>
-</li>
-</ul>
-<h3>Applications of AI</h3>
-<p>AI is transforming numerous industries and daily activities. Here are
-a few examples:</p>
-<ul>
-<li>
-<p><strong>Healthcare:</strong> AI is being used for medical diagnosis, drug
-discovery, personalized treatment plans, and even robotic-assisted surgeries.
-AI algorithms can analyze vast amounts of medical data, helping doctors
-make more accurate diagnoses.</p>
-</li>
-<li>
-<p><strong>Finance:</strong> In finance, AI is used for fraud detection, automated
-trading, and personalized financial services. AI-powered systems can analyze
-market trends, optimize portfolios, and offer financial advice based on
-individual needs.</p>
-</li>
-<li>
-<p><strong>Retail:</strong> AI is revolutionizing the retail industry through
-personalized recommendations, dynamic pricing, and customer service automation.
-For example, recommendation engines on e-commerce websites suggest products
-based on users' past behavior and preferences.</p>
-</li>
-<li>
-<p><strong>Transportation:</strong> Self-driving cars, powered by AI, are
-set to revolutionize the way we travel. AI is also being used in traffic
-management systems and logistics to optimize delivery routes and reduce
-transportation costs.</p>
-</li>
-<li>
-<p><strong>Manufacturing:</strong> AI-powered robots and automation systems
-are improving productivity in manufacturing by handling repetitive tasks
-and quality control more efficiently.</p>
 </li>
 </ul>
 <h3>The Future of AI</h3>
