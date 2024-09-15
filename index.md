@@ -51,4 +51,15 @@ sections:
       url: /implementing-ai/
       alt: Implementing-AI
       image: /images/H4.jpg
+  - textcards:
+      title: News and Upcoming Events
+      subtitle: Find out more on
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Deepracer 2024
+          description: Challenge and experience the thrill of racing your own autonomous
+            model car.
+          linktext: Learn more
+          url: https://aws.amazon.com/deepracer/
 ---
