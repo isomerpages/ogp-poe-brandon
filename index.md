@@ -19,9 +19,9 @@ sections:
         - title: Implementation
           description: Key Considerations to AI
           url: /implementing-ai/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Deepracer
+          description: AI Racing Competition
+          url: /deepracer/
       variant: floating
       size: sm
       backgroundColor: gray
