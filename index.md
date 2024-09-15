@@ -37,8 +37,17 @@ sections:
       description: Whether you're a beginner or an AI enthusiast, this hands-on
         competition offers a fun way to learn cutting-edge machine learning
         techniques.
-      button: Find out more
+      button: learn more
       url: https://aws.amazon.com/deepracer/
       image: /images/DR.jpg
       alt: DeepRacer
+  - infopic:
+      title: Driving Innovation and Efficiency
+      subtitle: diving into ai
+      id: infopic
+      description: The real-world applications of AI are vast and growing. Understand
+        how AI can revolutionise our current society.
+      button: learn more
+      url: /imp
+      alt: Image alt text
 ---
