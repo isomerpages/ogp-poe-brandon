@@ -1,4 +1,4 @@
-title: Title
+title: IsomerAI
 url: https://www.isomerai.org
 favicon: /images/favicon-isomer.ico
 colors:
@@ -15,7 +15,8 @@ colors:
       color: "#531374"
     - title: media-color-five
       color: "#7d1cae"
-description: An Isomer site of the Singapore Government
+description: An Isomer site of the Singapore Government that provides AI
+  solutions to improve everyday lives.
 permalink: none
 baseurl: ""
 exclude:
