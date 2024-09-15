@@ -62,6 +62,10 @@ sections:
             model car.
           linktext: Learn more
           url: /events/
+        - title: AI Innovation Workshop Series
+          description: Learning with practical experience in various AI technologies.
+          linktext: Learn more
+          url: /events/
         - title: Card
           description: Card description
           linktext: Learn more
