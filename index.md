@@ -4,12 +4,12 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: 10.10 Sales are coming soon! Check out the deals by clicking here!
+notification: ""
 sections:
   - hero:
       title: Do more with less
       subtitle: Check out how our AI services to make everyday life easier!
-      background: /images/hero-banner.png
+      background: /images/AIBG.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
@@ -25,4 +25,5 @@ sections:
       variant: floating
       size: sm
       backgroundColor: gray
+      alignment: left
 ---
