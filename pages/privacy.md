@@ -58,3 +58,7 @@ We use cookies and similar tracking technologies to enhance your experience on o
 ### 8\. **Changes to This Privacy Statement**
 
 We may update this privacy statement periodically to reflect changes in our practices, technology, or legal requirements. Any updates will be posted on our website with the effective date clearly indicated. We encourage you to review this page regularly to stay informed about how we protect your privacy.
+
+
+
+By using our services and participating in our events, you agree to the terms of this privacy statement. If you do not agree with the terms, please refrain from using our services or participating in our events.
