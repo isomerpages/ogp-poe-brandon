@@ -46,7 +46,7 @@ sections:
       subtitle: diving into ai
       id: infopic
       description: The real-world applications of AI are vast and growing. Understand
-        how AI can revolutionise our current society.
+        how AI can revolutionize our current society.
       button: learn more
       url: /implementing-ai/
       alt: Implementing-AI
