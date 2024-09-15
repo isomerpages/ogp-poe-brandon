@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Welcome to IsomerAI</strong></h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WelcomeIsomer" src="/images/AIBG.jpg">
+</div>
 <p>At IsomerAI, we are at the forefront of the artificial intelligence revolution,
 dedicated to making your life easier and your business more efficient through
 innovative AI solutions. Founded with the vision of harnessing the power
